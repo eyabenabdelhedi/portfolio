@@ -1,0 +1,19 @@
+PORTFOLIO D'EYA IBN ABDELHEDI
+
+Pour l'ouvrir : double-clique sur index.html (après avoir décompressé le zip).
+
+Contenu du dossier :
+- index.html       page principale
+- project.html     page détail d'un projet (ouverte depuis les cartes projets)
+- style.css        le design
+- script.js        le contenu et le code (textes FR/EN, projets, compétences, contact)
+- cv-eya-ibn-abdelhedi.pdf   ton CV
+- images/eya.jpg   ta photo
+- images/projects/<projet>/  tes captures d'écran
+
+Captures d'écran des projets :
+Mets 4 images nommées 1.png, 2.png, 3.png et 4.png dans le dossier de chaque projet,
+par exemple images/projects/aerotunis/1.png. Elles s'affichent seules sur la page du projet.
+Si un fichier manque, il est simplement ignoré.
+
+Pour mettre le site en ligne : glisse tout le dossier sur vercel.com/new ou app.netlify.com/drop.
